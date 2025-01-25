@@ -16,3 +16,7 @@ print(remainder(50, 3))
 print("This is under development")
 
 print("testing second commit in dev branch")
+
+
+# MERGED MAIN and DEV branch
+print("new commit after merging")
