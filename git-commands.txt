@@ -1,0 +1,13 @@
+CHAPTER 1
+git init
+
+git status
+(M, A, U)
+
+git log, git log --oneline
+
+git add . OR git stash
+git commit -m "msg"
+
+git diff <first> <second>
+(commits, branches)
